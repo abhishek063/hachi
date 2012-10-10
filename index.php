@@ -1,3 +1,4 @@
+
 <hmtl>
 <head>
 <title>
@@ -5,7 +6,7 @@ Eulerian Path and Circuit
 </title>
 </head>
 <body>
-<applet code="hacchi" width=1250 height=650>
+<applet code="hachi" width=1250 height=650>
 <param name="img0" value="house1.jpg">
 <param name="img1" value="house2.jpg">
 <param name="img2" value="house3.jpg">
